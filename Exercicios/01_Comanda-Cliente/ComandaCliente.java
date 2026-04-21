@@ -1,10 +1,3 @@
-
-/**
- * Escreva uma descrição da classe ComandaCliente aqui.
- * 
- * @author (Gustavo) 
- * @version (V.01)
- */
 import java.util.Scanner;
 
 public class ComandaCliente
